@@ -35,5 +35,5 @@
 
 ## 📫 Let’s connect
 - LinkedIn: [linkedin.com/in/samongelo](https://linkedin.com/in/samongelo)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/NGOBENITECH)
+- GitHub: [github.com/NGOBENITECH](https://github.com/NGOBENITECH)
 - Email: samongelongobeni@gmail.com
