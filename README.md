@@ -1,39 +1,30 @@
-# 👨‍💻 Samongelo Elias Ngobeni | Cybersecurity Engineer in Progress
+# Samongelo Elias Ngobeni
 
-🎯 Focused on building **real-world cybersecurity tools** using Python, PowerShell, and cloud (Azure).  
-🛠️ Turning theory into action with hands-on threat detection, log analysis, and automation.  
-📍 Based in Pretoria, South Africa | Open to remote SOC or SecOps roles
+🚀 Aspiring Cybersecurity Engineer | Python | SIEM | Threat Detection | Linux
 
----
+I build practical cybersecurity tools using Python and bash automation. I'm focused on SIEM, log analysis, threat detection, and cloud security. My goal is to be a weapon in any SOC or blue team.
 
-## 🔧 Current Projects
+## 🔧 Featured Projects
 
-### 🛡️ SIEM Log Anomaly Detector (Python)
-- Parses log files and flags brute-force and suspicious login patterns
-- Uses regular expressions + alert logic
-- [View project »](#)
+- **[SIEM-LOG-DETECTOR](https://github.com/ngobenitech/SIEM-LOG-DETECTOR)**  
+  A bash & Python tool that simulates real-world SOC workflows by parsing logs and detecting suspicious behavior. Built to practice real detection engineering.
 
-### 🧠 Active Directory Event Tracker (PowerShell)
-- Scans AD event logs for unusual access or privilege escalation
-- Outputs alerts to file + email
-- [View project »](#)
+- **[Telegram-Forex-Bot](https://github.com/ngobenitech/Telegram-Forex-Bot)** *(uploading soon)*  
+  A technical trading bot that uses RSI, MACD, EMA, and candlestick pattern detection to deliver smart signals directly to Telegram. Fully automated and API-integrated.
 
-### ☁️ Azure Cloud Lockdown Script
-- Hardens Azure resources with security best practices
-- Generates compliance report
-- [View project »](#)
+- **Linux Bash Security Toolkit** *(coming soon)*  
+  A growing collection of security-focused bash scripts for log monitoring, threat hunting, and system automation.
 
----
+## 🧠 Focus Areas
 
-## 🚀 Goals (Next 30 Days)
-- ✅ Build 3 deployable security tools
-- ✅ Daily GitHub commits
-- ✅ Weekly LinkedIn posts
-- ✅ Apply for 10+ cyber roles with proof of work
+- Python scripting for detection
+- SIEM workflows and automation
+- Linux & endpoint log analysis
+- Building hands-on cybersecurity projects
 
 ---
 
-## 📫 Let’s connect
-- LinkedIn: [linkedin.com/in/samongelo](https://linkedin.com/in/samongelo)
-- GitHub: [github.com/NGOBENITECH](https://github.com/NGOBENITECH)
-- Email: samongelongobeni@gmail.com
+📫 Email: **samongelongobeni@gmail.com**  
+📍 Pretoria, South Africa  
+🌐 GitHub: [github.com/ngobenitech](https://github.com/ngobenitech)
+
