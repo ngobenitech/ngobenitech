@@ -1,43 +1,92 @@
-# Samongelo Elias Ngobeni
+ Samongelo Elias Ngobeni
 
-🚀 **Aspiring Cybersecurity Engineer** | Python • SIEM • Threat Detection • Linux • Blue Team
+Cloud Security & SOC Engineering | SIEM • Azure • Python • Linux • Detection Engineering
 
-I'm a hands-on cybersecurity learner based in Pretoria, South Africa. I specialize in **SIEM**, **Python scripting**, **log analysis**, and **cloud threat detection**. My mission is to build, automate, and defend — bringing real-world solutions to blue team challenges.
+ About Me
+Cybersecurity and cloud-focused engineer based in Pretoria, South Africa, specializing in SOC operations, SIEM engineering, log analysis, and cloud threat detection.
 
----
+I build hands-on security labs that simulate real enterprise environments using Linux, Python, and cloud-based detection workflows.
 
-### 🔨 Featured Projects
 
-**🔹 [Cloud Threat Detection Lab](https://github.com/ngobenitech/cloud-threat-detection-lab)**  
-A professional-grade detection lab using simulated logs and Python to identify cloud-based threats. Includes alerting, SIEM integration, and real-time parsing logic.
 
-**🔹 SIEM-Log-Detector**  
-Bash & Python tool that mimics SOC workflows. Parses Linux log files, flags anomalies, and emulates detection engineering best practices.
+Technical Stack
+SIEM & Log Analysis (SOC workflows, detection rules)
+Python (automation, parsing, threat detection)
+Linux (log investigation, system monitoring)
+Azure / Cloud Security (detection & monitoring concepts)
+Bash Scripting
+Security Automation & Alerting
 
-**🔹 Telegram Forex Signal Bot** *(uploading soon)*  
-An intelligent trading bot using technical indicators like RSI, MACD, EMA, and candlestick detection. Sends alerts to Telegram via API.
 
-**🔹 Linux Bash Security Toolkit** *(coming soon)*  
-Security scripts for log monitoring, system hardening, and process automation on Linux endpoints.
 
----
+Core Focus Areas 
+Threat Detection Engineering (Blue Team)
+Security Event Monitoring & Log Parsing
+Cloud Security Monitoring (Azure-focused)
+SOC-style Automation Workflows
+Security Tool Development in Python
 
-### 🎯 Core Focus Areas
 
-- 🐍 Python scripting for threat detection
-- 📊 SIEM workflows, parsing, and automation
-- 🐧 Linux log analysis & shell scripting
-- ☁️ Cloud-based detection and alerting (Azure-focused)
-- ⚙️ Blue team projects that simulate real-world scenarios
 
----
+ Featured Projects
 
-### 📫 Contact
+ Cloud Threat Detection Lab
+A simulated cloud security environment designed to detect malicious activity using Python-based log parsing and alert generation.
 
-- 📍 **Pretoria, South Africa**  
-- ✉️ **samongelongobeni@gmail.com**  
-- 🌐 [GitHub.com/ngobenitech](https://github.com/ngobenitech)
+Key Features:
+Log ingestion and normalization
+Detection rules for suspicious behavior
+Automated alert generation
+SIEM-style workflow simulation
 
----
 
-_“I don’t just study cybersecurity — I build it.”_
+
+SIEM Log Detector
+A SOC-inspired tool built using Bash and Python to analyze Linux logs and detect anomalies.
+
+Key Features:
+
+Authentication log monitoring
+Failed login detection
+Pattern-based anomaly detection
+SOC-style reporting output
+
+
+Telegram Forex Signal Bot (In Progress)
+Automation bot using RSI, MACD, EMA, and candlestick logic to generate trading signals and send alerts via Telegram API.
+
+Tech Stack:
+
+Python • API integration • Technical indicators • Automation
+
+
+
+Linux Security Toolkit (Planned)
+A collection of Bash scripts for:
+Log monitoring
+System hardening checks
+Process auditing
+Basic incident response automation
+
+
+
+ Certifications
+ 
+ CompTIA Security+
+ CompTIA Network+
+ CompTIA A+
+ Oracle DEVOPS Professional 
+ Oracle Cloud Infrastructure Foundations
+ Oracle Fusion Cloud Applications (ERP, HCM, CRM)
+
+
+
+Tools & Technologies
+Python • Linux • Bash • SIEM concepts • Azure • Log Analysis • Automation
+
+
+
+Contact
+Pretoria, South Africa  
+samongelongobeni@gmail.com  
+https://github.com/ngobenitech
