@@ -1,92 +1,136 @@
- Samongelo Elias Ngobeni
+# Samongelo Elias Ngobeni
 
-Cloud Security & SOC Engineering | SIEM • Azure • Python • Linux • Detection Engineering
+**Cloud Security & SOC Engineering | Active Directory | SIEM | Azure | Python | Linux**
 
- About Me
-Cybersecurity and cloud-focused engineer based in Pretoria, South Africa, specializing in SOC operations, SIEM engineering, log analysis, and cloud threat detection.
+Pretoria, South Africa
 
-I build hands-on security labs that simulate real enterprise environments using Linux, Python, and cloud-based detection workflows.
+## About Me
 
+I am an IT and cybersecurity professional focused on Windows administration, cloud security, SOC operations, SIEM engineering, log analysis and threat detection.
 
+I build practical enterprise-style labs that demonstrate real technical skills across:
 
-Technical Stack
-SIEM & Log Analysis (SOC workflows, detection rules)
-Python (automation, parsing, threat detection)
-Linux (log investigation, system monitoring)
-Azure / Cloud Security (detection & monitoring concepts)
-Bash Scripting
-Security Automation & Alerting
+- Active Directory and Group Policy
+- Windows Server administration
+- Desktop and service desk support
+- Security monitoring and log analysis
+- Linux system administration
+- Python and PowerShell automation
+- Cloud security concepts
 
+## Technical Skills
 
+### Systems Administration
 
-Core Focus Areas 
-Threat Detection Engineering (Blue Team)
-Security Event Monitoring & Log Parsing
-Cloud Security Monitoring (Azure-focused)
-SOC-style Automation Workflows
-Security Tool Development in Python
+- Active Directory Domain Services
+- Windows Server 2022
+- Group Policy Management
+- DNS and TCP/IP troubleshooting
+- Microsoft 365 support
+- User, computer and security-group administration
+- SMB shares and NTFS permissions
+- Windows LAPS
+- PowerShell automation
 
+### Cybersecurity
 
+- SIEM and SOC workflows
+- Log collection and analysis
+- Detection engineering
+- Threat monitoring
+- Incident investigation
+- Security automation
+- Microsoft Azure security concepts
+- Linux authentication-log analysis
 
- Featured Projects
+### Tools and Technologies
 
- Cloud Threat Detection Lab
-A simulated cloud security environment designed to detect malicious activity using Python-based log parsing and alert generation.
+- PowerShell
+- Python
+- Bash
+- Linux
+- Windows Server
+- Active Directory
+- Oracle VirtualBox
+- Git and GitHub
+- Azure
+- Microsoft Defender concepts
 
-Key Features:
-Log ingestion and normalization
-Detection rules for suspicious behavior
-Automated alert generation
-SIEM-style workflow simulation
+## Featured Projects
 
+### Active Directory Enterprise Home Lab
 
+A Windows Server 2022 enterprise-style environment built in Oracle VirtualBox.
 
-SIEM Log Detector
-A SOC-inspired tool built using Bash and Python to analyze Linux logs and detect anomalies.
+**Implemented features:**
 
-Key Features:
+- Active Directory forest and domain deployment
+- Windows client domain joining
+- Organisational Units, users and security groups
+- Group Policy deployment
+- SMB and NTFS permissions
+- Automatic mapped drives
+- Password and account-lockout policies
+- Windows LAPS
+- PowerShell health-check automation
+- Real command output and screenshot evidence
 
-Authentication log monitoring
-Failed login detection
-Pattern-based anomaly detection
-SOC-style reporting output
+[View Active Directory Home Lab](https://github.com/ngobenitech/active-directory)
 
+### Cloud Threat Detection Lab
 
-Telegram Forex Signal Bot (In Progress)
-Automation bot using RSI, MACD, EMA, and candlestick logic to generate trading signals and send alerts via Telegram API.
+A simulated cloud-security environment designed to detect suspicious activity through Python-based log analysis and automated alerts.
 
-Tech Stack:
+**Key features:**
 
-Python • API integration • Technical indicators • Automation
+- Log ingestion and normalisation
+- Detection rules for suspicious behaviour
+- Automated alert generation
+- SIEM-style workflow simulation
 
+### SIEM Log Detector
 
+A SOC-inspired Bash and Python project for analysing Linux authentication logs and identifying suspicious activity.
 
-Linux Security Toolkit (Planned)
-A collection of Bash scripts for:
-Log monitoring
-System hardening checks
-Process auditing
-Basic incident response automation
+**Key features:**
 
+- Authentication-log monitoring
+- Failed-login detection
+- Pattern-based anomaly detection
+- SOC-style reporting
 
+### Linux Security Toolkit
 
- Certifications
- 
- CompTIA Security+
- CompTIA Network+
- CompTIA A+
- Oracle DEVOPS Professional 
- Oracle Cloud Infrastructure Foundations
- Oracle Fusion Cloud Applications (ERP, HCM, CRM)
+A developing collection of Bash scripts for:
 
+- Log monitoring
+- System-hardening checks
+- Process auditing
+- Basic incident-response automation
 
+## Certifications
 
-Tools & Technologies
-Python • Linux • Bash • SIEM concepts • Azure • Log Analysis • Automation
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- CompTIA IT Operations Specialist
+- Oracle DevOps Professional
+- Oracle Cloud Infrastructure Foundations
+- Oracle Fusion Cloud Applications
 
+## Current Focus
 
+I am currently strengthening my practical experience in:
 
-Contact
-Pretoria, South Africa  
-samongelongobeni@gmail.com  
-https://github.com/ngobenitech
+- Windows Server administration
+- Microsoft Azure
+- Cloud-security monitoring
+- SOC operations
+- PowerShell automation
+- Detection engineering
+
+## Contact
+
+- **Location:** Pretoria, South Africa
+- **Email:** [samongelongobeni@gmail.com](mailto:samongelongobeni@gmail.com)
+- **GitHub:** [github.com/ngobenitech](https://github.com/ngobenitech)
